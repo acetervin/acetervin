@@ -30,11 +30,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
-<p align="left">I'm Kevin <br><br>🎯 Software Engineer | Fintech Builder | AI-Powered Developer<br><br>I’m a passionate developer currently pursuing my Bachelor's in Software Engineering at Kirinyaga University. I love building smart, secure, and seamless digital solutions.<br><br>🚀 I build with:<br><br>Frontend: JavaScript, TypeScript, React, Tailwind CSS, HTML/CSS<br><br>Backend: Node.js, Firebase, PHP, SQL<br><br>Design & Tools: Figma, Git, Android Studio<br><br>Extras: C++, AI-assisted coding (ChatGPT, GitHub Copilot), Mobile APIs, Webhooks, ERP systems<br><br>🌐 Recent Projects:<br><br>🔧 Freelance web portfolios (React + Tailwind + TypeScript)<br><br>🛒 Full-featured eCommerce site<br><br>🔜 Building a mobile wallet app with real-time crypto features<br><br>💡 What drives me?<br>I'm passionate about using code to solve real-world problems. Whether it's automating a task, creating an intuitive user experience, or scaling fintech systems I’m all in. Lets collab</p>
+<p align="left">I'm Kevin <br><br> Software Engineer | Fintech Builder | AI-Powered Developer<br><br>I’m a passionate developer currently pursuing my Bachelor's in Software Engineering at Kirinyaga University. I love building smart, secure, and seamless digital solutions.<br><br> I build with:<br><br>Frontend: JavaScript, TypeScript, React, Tailwind CSS, HTML/CSS<br><br>Backend: Node.js, Firebase, PHP, SQL<br><br>Design & Tools: Figma, Git, Android Studio<br><br>Extras: C++, AI-assisted coding (ChatGPT, GitHub Copilot), Mobile APIs, Webhooks, ERP systems<br><br> Recent Projects:<br><br>🔧 Freelance web portfolios (React + Tailwind + TypeScript)<br><br>🛒 Full-featured eCommerce site<br><br> Building a mobile wallet app with real-time crypto features<br><br>💡 What drives me?<br>I'm passionate about using code to solve real-world problems. Whether it's automating a task, creating an intuitive user experience, or scaling fintech systems I’m all in. Lets collab</p>
 
 ###
 
