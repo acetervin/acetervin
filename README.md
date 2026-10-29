@@ -39,14 +39,14 @@ Software Engineering, Kirinyaga University.
 
 ## Featured Project
 
-**Family Peace Association Kenya**
+**Tetezi Properties**
 
-![Family Peace Association Kenya](https://codenovaone.com/img/family-peace.jpg)
+![Tetezi Properties](https://codenovaone.com/img/tetezi.jpg)
 
-A website for a national family and community organisation: events, donations by M-Pesa and PayPal, a gallery, and an admin panel the team runs themselves, plus ongoing care.
+A custom-designed website for a property company, showcasing its developments and set up to be found on Google, with the domain, hosting and first year of care handled.
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-familypeaceassociationkenya.org-blue?style=plastic&logo=googlechrome&logoColor=white)](https://familypeaceassociationkenya.org)
-[![Case Study](https://img.shields.io/badge/Case%20Study-codenovaone.com-black?style=plastic)](https://codenovaone.com/work#family-peace)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-teteziproperties.co.ke-blue?style=plastic&logo=googlechrome&logoColor=white)](https://teteziproperties.co.ke)
+[![Case Study](https://img.shields.io/badge/Case%20Study-codenovaone.com-black?style=plastic)](https://codenovaone.com/work#tetezi)
 
 ---
 
@@ -56,7 +56,7 @@ A website for a national family and community organisation: events, donations by
 |---|---|---|
 | **Minada** | A multi-store SaaS where every business gets its own shop and is paid directly | [![Live](https://img.shields.io/badge/Live-minada.ke-7C3AED?style=flat-square)](https://minada.ke) |
 | **Stationery Central** | Multi-store e-commerce with M-Pesa paid straight to each seller | [![Live](https://img.shields.io/badge/Live-stationerycentraldepot.ke-0A7B83?style=flat-square)](https://stationerycentraldepot.ke) |
-| **Tetezi Properties** | Custom property website with SEO and ongoing care | [![Live](https://img.shields.io/badge/Live-teteziproperties.co.ke-1F6FEB?style=flat-square)](https://teteziproperties.co.ke) |
+| **Family Peace Association Kenya** | Events, donations by M-Pesa and PayPal, and an admin panel | [![Live](https://img.shields.io/badge/Live-familypeaceassociationkenya.org-B7791F?style=flat-square)](https://familypeaceassociationkenya.org) |
 | **First Interiors Designs** | A luxury portfolio for a Nairobi interior design studio | [![Case Study](https://img.shields.io/badge/Case%20Study-codenovaone.com-111111?style=flat-square)](https://codenovaone.com/work#first-interiors) |
 
 ### Product Demos
